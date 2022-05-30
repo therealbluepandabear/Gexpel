@@ -1,2 +1,2 @@
 # Gexpel
-Expel Google from your phone.
+[WIP] Expel Google from your phone.
